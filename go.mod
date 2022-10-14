@@ -11,7 +11,7 @@ require (
 	github.com/pion/randutil v0.1.0
 	github.com/pion/stun v0.3.5
 	github.com/pion/transport v0.13.1
-	github.com/pion/turn/v2 v2.0.8
+	github.com/pion/turn/v2 v2.0.5-0.20200729214214-fcb603d45b64
 	github.com/stretchr/testify v1.7.1
 	golang.org/x/net v0.0.0-20221002022538-bcab6841153b
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
